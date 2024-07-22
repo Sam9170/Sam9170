@@ -6,8 +6,7 @@
   - Email: sambrham.10@gmail.com
   - Mobile: +91-9777437919
   - [LinkedIn](https://www.linkedin.com/in/sambrham)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I was awarded a Gold Medal in the International English Olympiad.
+- ⚡ Awards: I was awarded a Gold Medal in the International English Olympiad.
 
 
 ---
