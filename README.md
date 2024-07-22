@@ -9,6 +9,13 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was awarded a Gold Medal in the International English Olympiad.
 
+
+---
+
+## Resume Summary
+
+I am a dedicated tech enthusiast and skilled in developing with Python. With a strong focus on artificial intelligence, my expertise spans in AI, DevOps, and efficient data mining pipelines. Proficient in Python, SQL, NoSQL, Docker, and cloud technologies, I excel in data analysis, data extraction, and leveraging GitHub for version control. I aim to apply my skills in Python, Artificial Intelligence, and database management to drive transformative innovations in the tech industry.
+
 ---
 
 ## Personal Details
@@ -62,12 +69,6 @@
 - English
 - Oriya
 - Hindi
-
----
-
-## Resume Summary
-
-I am a dedicated tech enthusiast and skilled in developing with Python. With a strong focus on artificial intelligence, my expertise spans in AI, DevOps, and efficient data mining pipelines. Proficient in Python, SQL, NoSQL, Docker, and cloud technologies, I excel in data analysis, data extraction, and leveraging GitHub for version control. I aim to apply my skills in Python, Artificial Intelligence, and database management to drive transformative innovations in the tech industry.
 
 ---
 
