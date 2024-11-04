@@ -34,8 +34,7 @@ I am a dedicated tech enthusiast and skilled in developing with Python. With a s
 **Development**
 - Python
 - Selenium
-- Flet
-- Flask
+- Flask/Fastapi
 
 **Data Science and AI**
 - Artificial Intelligence
