@@ -90,10 +90,8 @@ I am a dedicated tech enthusiast and skilled in developing with Python. With a s
 ## Work Experience
 
 **RSB MedTech Solutions | Data Analyst | February 2023 – Present:**
-- **Data Mining Pipeline:**
-  - Developed a comprehensive data mining pipeline using Python and automation libraries to enhance data quality. Improved data quality by 50%. Integrated Google's Gemini LLM for effective data preprocessing and formulated a grading system for data quality. Built a Master Database with Duck DB, implementing functions to remove duplicity, and enabling grading-based insertion and extraction to meet user requirements.
-- **Automation:**
-  - Wrote automation scripts using Python and Selenium to automate tasks for clients in the US Healthcare Industry.
+- In my current role as a Data Analyst, I'm driving the development of a comprehensive data mining pipeline using Python, automation, and AI technologies. This work is significantly enhancing our data processing capabilities and delivering crucial insights for strategic decision-making. I've expanded my responsibilities to include backend development, where I'm crafting efficient endpoints and integrating APIs using FastAPI. Leveraging Docker and cloud technologies, I'm ensuring our solutions are scalable and portable. On the database front, I'm implementing DuckDB and PostgreSQL to create optimized, high-performance databases that can handle our growing data needs. This multifaceted position allows me to bridge data analysis and software engineering, pushing the boundaries of innovation and efficiency across our entire tech stack.​​​​​​​​​​​​​​​​
+
 
 ---
 
